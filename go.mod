@@ -1,4 +1,4 @@
-module github.com/rubenv/pgtest
+module github.com/yoink00/pgtest
 
 go 1.16
 
